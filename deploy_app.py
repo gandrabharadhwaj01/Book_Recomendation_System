@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import streamlit as st
-from scikit-learn.metrics.pairwise import cosine_similarity
+from sklearn.metrics.pairwise import cosine_similarity
 
 # -----------------------------
 # Load data
