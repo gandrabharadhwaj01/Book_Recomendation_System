@@ -8,9 +8,9 @@ from sklearn.metrics.pairwise import cosine_similarity
 # -----------------------------
 @st.cache_data
 def load_data():
-    books = pd.read_csv('books.csv')
-    users = pd.read_csv('users.csv')
-    ratings = pd.read_csv('ratings.csv')
+    books = pd.read_csv('https://drive.google.com/uc?id=1g246A51s77PPvK9IV-L7z0Je_3e8Ibun')
+    users = pd.read_csv('https://drive.google.com/uc?id=1sqluJMFaAY6o0XBqQfEoXtprDO3tDA0i')
+    ratings = pd.read_csv('https://drive.google.com/uc?id=1wpXwT4swokjRizqrtrM6kcsG3XyLTnhD')
     return books, users, ratings
 
 books, users, ratings = load_data()
