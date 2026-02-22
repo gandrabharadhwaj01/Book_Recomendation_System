@@ -73,12 +73,6 @@ After downloading, place the following files inside the `data/` folder:
 - users.csv
 - ratings.csv
 
-The dataset includes:
-
--   Book metadata (Title, Author, ISBN, Image URL)
--   User information
--   Book ratings
-
 ------------------------------------------------------------------------
 
 ## ⚙️ Installation & Setup
