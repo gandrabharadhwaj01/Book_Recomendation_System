@@ -56,13 +56,22 @@ The system:
 
 ------------------------------------------------------------------------
 
-## 📂 Dataset
+## 📂 Dataset Information
 
-The project uses three datasets:
+The dataset used in this project is the Book-Crossing Dataset.
 
--   books.csv
--   users.csv
--   ratings.csv
+Due to GitHub file size limitations, the dataset files are not included in this repository.
+
+You can download the dataset from the following source:
+
+🔗 Dataset Link:
+https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+
+After downloading, place the following files inside the `data/` folder:
+
+- books.csv
+- users.csv
+- ratings.csv
 
 The dataset includes:
 
