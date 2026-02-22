@@ -77,8 +77,7 @@ The dataset includes:
 ### 1️⃣ Clone the repository
 
 git clone
-https://github.com/gandrabharadhwaj01/Book_Recomendation_System\
-cd book-recommendation-system
+https://github.com/gandrabharadhwaj01/Book_Recomendation_System
 
 ### 2️⃣ Install dependencies
 
